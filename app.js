@@ -63,8 +63,6 @@ console.log(multiplyof);
 console.log(sumof);
 return [sumof, multiplyof, z, x] 
 }
-
-
 // Here is the test for sumAndMultiply(); uncomment it to run it
 testSumAndMultiply(4, 7, 5);
 
